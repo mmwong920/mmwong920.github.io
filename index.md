@@ -2,6 +2,8 @@
 Hi
 
 # Project
+[Label to text reconstruction with BERT]()
+
 [User Intend Prediction by Fine-Tuning BERT]()
 
 [Scalable Image Captioning with CNN and LSTM from PyTorch]()
