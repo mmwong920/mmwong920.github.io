@@ -1,3 +1,8 @@
-# Hello world
+# Introduction
 
-Hi world
+Hi world my name is moses
+
+# Project
+## Project
+[Link to project](docs/CONTRIBUTING.md)
+
