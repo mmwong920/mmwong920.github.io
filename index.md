@@ -1,4 +1,4 @@
-#Moses's Page
+# Moses's Page
 I am an undergraduate applied math student from UCSD. You can reach me at mmwong@ucsd.edu
 
 # Project
