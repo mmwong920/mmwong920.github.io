@@ -1,5 +1,5 @@
-#
-Hi
+#Moses's Page
+I am an undergraduate applied math student from UCSD. You can reach me at mmwong@ucsd.edu
 
 # Project
 [Label to text reconstruction with BERT](https://github.com/mmwong920/Label-to-text-reconstruction-with-BERT)
